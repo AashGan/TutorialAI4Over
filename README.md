@@ -10,7 +10,5 @@ It is highly recommended that this tutorial is done on a virtual environment, to
 
 
 
-## Sources
 
-This tutorial was adapted from several existing works that I've listed below alongside some extensions which may be interesting.
 
